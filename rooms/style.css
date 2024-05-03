@@ -75,7 +75,9 @@ z-index: 1000;
 }
 
 .menu-icono{
-    width: 25px;
+    width: 30px;
+    margin-bottom: 30px;
+    position: relative;
 }
 
 .menu label{
@@ -291,9 +293,10 @@ p{
 
     .header{
         height: 0vh;
-        min-height: 50px;
-        background-color: transparent;
-        margin-bottom: 30px;
+        min-height: 70px;
+        background-color: #121140;
+        margin-bottom: 40px;
+        border-radius: 5px;
     }
 
     .header-content{
